@@ -257,11 +257,6 @@ handleCollect = () => {
 ```
 <div dangerouslySetInnerHTML={{__html: code}}></div>
 ```
-## 结语
-
-### [项目传送门](https://github.com/MrsignzZ/react-kitchen)
 写项目的时候也遇到了许多小问题，都是慢慢查文档一个一个解决的，不断的思考然后解决问题也是成长的一部分。
 
-当然，项目还有许多需要完善的地方，如果发现有错误或者不足的地方，也希望大家能够指点一二
-
-**最后的最后，厚颜无耻地求一个STAR😋**
+、
